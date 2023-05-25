@@ -1,1 +1,1 @@
-Ejemplos del libro **PYTHON PARA HUMANIDADES DIGITALES Introducción al análisis y procesamiento de textos con Python** de RC Libros, escrito por Rafael Caballero, Enrique Martín y Adrián Riesco.
+Ejemplos del libro **Análisis y minería de textos con PYTHON** de RC Libros, escrito por Rafael Caballero, Enrique Martín y Adrián Riesco.
